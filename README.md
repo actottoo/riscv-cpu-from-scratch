@@ -12,3 +12,6 @@ H&P(Computer Organization and Design, RISC-V판) 이론을
 
 ## 사용 도구
 (설치한 도구와 버전을 여기에 적기)
+- Ripes 2.x — RISC-V 시각화 시뮬레이터
+- RARS 1.6 — RISC-V 어셈블러/시뮬레이터
+- Icarus Verilog 12.0 + GTKWave — Verilog 시뮬레이션
